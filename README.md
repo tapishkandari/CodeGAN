@@ -2,7 +2,7 @@
 
 Source Code Generation with Generative Adversarial Networks (SeqGAN)
 
-## Requirements: 
+## Requirements: .
 * Tensorflow r0.11
 * Cuda 7.5 or higher (for GPU)  
 * nltk python package
